@@ -1,0 +1,19 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fursich/node_test_app.git"
+  },
+  "author": "Koji Onishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fursich/node_test_app/issues"
+  },
+  "homepage": "https://github.com/fursich/node_test_app#readme"
+}
